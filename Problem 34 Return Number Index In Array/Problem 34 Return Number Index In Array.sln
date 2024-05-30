@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 34 Return Number Index In Array", "Problem 34 Return Number Index In Array\Problem 34 Return Number Index In Array.vcxproj", "{DCB78441-B9F1-4813-9A3B-24C1D0E7124F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB78441-B9F1-4813-9A3B-24C1D0E7124F}.Debug|x64.ActiveCfg = Debug|x64
+		{DCB78441-B9F1-4813-9A3B-24C1D0E7124F}.Debug|x64.Build.0 = Debug|x64
+		{DCB78441-B9F1-4813-9A3B-24C1D0E7124F}.Debug|x86.ActiveCfg = Debug|Win32
+		{DCB78441-B9F1-4813-9A3B-24C1D0E7124F}.Debug|x86.Build.0 = Debug|Win32
+		{DCB78441-B9F1-4813-9A3B-24C1D0E7124F}.Release|x64.ActiveCfg = Release|x64
+		{DCB78441-B9F1-4813-9A3B-24C1D0E7124F}.Release|x64.Build.0 = Release|x64
+		{DCB78441-B9F1-4813-9A3B-24C1D0E7124F}.Release|x86.ActiveCfg = Release|Win32
+		{DCB78441-B9F1-4813-9A3B-24C1D0E7124F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {194AFB76-0C72-4D2F-9A01-2BB4F70C8768}
+	EndGlobalSection
+EndGlobal
