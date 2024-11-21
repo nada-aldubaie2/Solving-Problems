@@ -1,0 +1,6 @@
+﻿  Problem 29 Count small and capital letters.cpp
+C:\Users\nada2\source\repos\Problem 29 Count small and capital letters\Problem 29 Count small and capital letters\Problem 29 Count small and capital letters.cpp(18,20): warning C4267:  'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\nada2\source\repos\Problem 29 Count small and capital letters\Problem 29 Count small and capital letters\Problem 29 Count small and capital letters.cpp(20,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\nada2\source\repos\Problem 29 Count small and capital letters\Problem 29 Count small and capital letters\Problem 29 Count small and capital letters.cpp(32,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\nada2\source\repos\Problem 29 Count small and capital letters\Problem 29 Count small and capital letters\Problem 29 Count small and capital letters.cpp(42,20): warning C4018:  '<': signed/unsigned mismatch
+  Problem 29 Count small and capital letters.vcxproj -> C:\Users\nada2\source\repos\Problem 29 Count small and capital letters\Debug\Problem 29 Count small and capital letters.exe

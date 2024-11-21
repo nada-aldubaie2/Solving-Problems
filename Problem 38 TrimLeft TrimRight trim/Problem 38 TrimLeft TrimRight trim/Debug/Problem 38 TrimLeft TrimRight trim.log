@@ -1,0 +1,4 @@
+﻿  Problem 38 TrimLeft TrimRight trim.cpp
+D:\First Course AboHadoud\07 - Algorithms & Problem-Solving Level 3\Code\Problem 38 TrimLeft TrimRight trim\Problem 38 TrimLeft TrimRight trim\Problem 38 TrimLeft TrimRight trim.cpp(15,22): warning C4018:  '<': signed/unsigned mismatch
+D:\First Course AboHadoud\07 - Algorithms & Problem-Solving Level 3\Code\Problem 38 TrimLeft TrimRight trim\Problem 38 TrimLeft TrimRight trim\Problem 38 TrimLeft TrimRight trim.cpp(25,31): warning C4267:  'initializing': conversion from 'size_t' to 'short', possible loss of data
+  Problem 38 TrimLeft TrimRight trim.vcxproj -> D:\First Course AboHadoud\07 - Algorithms & Problem-Solving Level 3\Code\Problem 38 TrimLeft TrimRight trim\Debug\Problem 38 TrimLeft TrimRight trim.exe

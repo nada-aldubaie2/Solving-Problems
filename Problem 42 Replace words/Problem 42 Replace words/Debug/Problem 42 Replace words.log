@@ -1,0 +1,4 @@
+﻿  Problem 42 Replace words.cpp
+D:\First Course AboHadoud\07 - Algorithms & Problem-Solving Level 3\Code\Problem 42 Replace words\Problem 42 Replace words\Problem 42 Replace words.cpp(15,37): warning C4267:  'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\First Course AboHadoud\07 - Algorithms & Problem-Solving Level 3\Code\Problem 42 Replace words\Problem 42 Replace words\Problem 42 Replace words.cpp(20,32): warning C4267:  '=': conversion from 'size_t' to 'short', possible loss of data
+  Problem 42 Replace words.vcxproj -> D:\First Course AboHadoud\07 - Algorithms & Problem-Solving Level 3\Code\Problem 42 Replace words\Debug\Problem 42 Replace words.exe

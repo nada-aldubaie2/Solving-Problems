@@ -1,4 +1,0 @@
-﻿  Problem 39 Copy Prime Numbers To New Array.cpp
-D:\First Course AboHadoud\Algartim Solving Problem 2\Problem 39 Copy Prime Numbers To New Array\Problem 39 Copy Prime Numbers To New Array\Problem 39 Copy Prime Numbers To New Array.cpp(8,8): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
-D:\First Course AboHadoud\Algartim Solving Problem 2\Problem 39 Copy Prime Numbers To New Array\Problem 39 Copy Prime Numbers To New Array\Problem 39 Copy Prime Numbers To New Array.cpp(17): warning C4715:  'CheckIfPrime': not all control paths return a value
-  Problem 39 Copy Prime Numbers To New Array.vcxproj -> D:\First Course AboHadoud\Algartim Solving Problem 2\Problem 39 Copy Prime Numbers To New Array\Debug\Problem 39 Copy Prime Numbers To New Array.exe

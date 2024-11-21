@@ -1,0 +1,4 @@
+﻿  Problem 43 Replace words Custom.cpp
+D:\First Course AboHadoud\07 - Algorithms & Problem-Solving Level 3\Code\Problem 43 Replace words Custom\Problem 43 Replace words Custom\Problem 43 Replace words Custom.cpp(21,33): warning C4267:  '=': conversion from 'size_t' to 'short', possible loss of data
+D:\First Course AboHadoud\07 - Algorithms & Problem-Solving Level 3\Code\Problem 43 Replace words Custom\Problem 43 Replace words Custom\Problem 43 Replace words Custom.cpp(50,22): warning C4018:  '<': signed/unsigned mismatch
+  Problem 43 Replace words Custom.vcxproj -> D:\First Course AboHadoud\07 - Algorithms & Problem-Solving Level 3\Code\Problem 43 Replace words Custom\Debug\Problem 43 Replace words Custom.exe

@@ -1,0 +1,4 @@
+﻿  Problem 26 UpperLowerFirstLetterOfEachWord.cpp
+D:\First Course AboHadoud\07 - Algorithms & Problem-Solving Level 3\Code\Problem 26 UpperLowerFirstLetterOfEachWord\Problem 26 UpperLowerFirstLetterOfEachWord\Problem 26 UpperLowerFirstLetterOfEachWord.cpp(15,22): warning C4018:  '<': signed/unsigned mismatch
+D:\First Course AboHadoud\07 - Algorithms & Problem-Solving Level 3\Code\Problem 26 UpperLowerFirstLetterOfEachWord\Problem 26 UpperLowerFirstLetterOfEachWord\Problem 26 UpperLowerFirstLetterOfEachWord.cpp(23,22): warning C4018:  '<': signed/unsigned mismatch
+  Problem 26 UpperLowerFirstLetterOfEachWord.vcxproj -> D:\First Course AboHadoud\07 - Algorithms & Problem-Solving Level 3\Code\Problem 26 UpperLowerFirstLetterOfEachWord\Debug\Problem 26 UpperLowerFirstLetterOfEachWord.exe
