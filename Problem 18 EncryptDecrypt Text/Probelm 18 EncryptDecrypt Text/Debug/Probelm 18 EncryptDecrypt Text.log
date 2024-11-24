@@ -1,0 +1,4 @@
+﻿  Probelm 18 EncryptDecrypt Text.cpp
+D:\First Course AboHadoud\Algartim Solving Problem 2\Probelm 18 EncryptDecrypt Text\Probelm 18 EncryptDecrypt Text\Probelm 18 EncryptDecrypt Text.cpp(13,20): warning C4018:  '<=': signed/unsigned mismatch
+D:\First Course AboHadoud\Algartim Solving Problem 2\Probelm 18 EncryptDecrypt Text\Probelm 18 EncryptDecrypt Text\Probelm 18 EncryptDecrypt Text.cpp(21,20): warning C4018:  '<=': signed/unsigned mismatch
+  Probelm 18 EncryptDecrypt Text.vcxproj -> D:\First Course AboHadoud\Algartim Solving Problem 2\Probelm 18 EncryptDecrypt Text\Debug\Probelm 18 EncryptDecrypt Text.exe
